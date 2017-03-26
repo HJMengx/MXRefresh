@@ -2,7 +2,7 @@
 title: iOS下拉刷新
 ---
 
-[详情](http://www.jianshu.com/p/165e3134b360)
+[详情](http://www.jianshu.com/p/ff088c1ec763)
 
 使用：
 
